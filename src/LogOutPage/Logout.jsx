@@ -1,7 +1,7 @@
 function Logout(){
     return(
         <>
-        <h2>LogOut Sucessfully !!</h2>
+        <h2>LogOut Sucessfully !!!!</h2>
         </>
     )
 }

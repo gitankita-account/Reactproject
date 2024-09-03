@@ -7,11 +7,11 @@ import Navbar from "./MenuBar/Navbar"
 
 function App(){
   return <>
-   {/* <Routing />  */}
+   <Routing /> 
    {/* <SignUp/>
   <Login/> */}
   {/* <HomePage /> */}
-  <Navbar />
+  {/* <Navbar /> */}
   </>
 }
 export default App
